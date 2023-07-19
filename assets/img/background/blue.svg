@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <title>Corner-to-corner gradient</title>
+    <defs>
+        <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="100%">
+            <stop style="stop-color: black;" offset="0" />
+            <stop style="stop-color: #17314a;" offset="1" />
+        </linearGradient>
+    </defs>
+    <rect style="fill: url(#g);" width="100%" height="100%" />
+</svg>
